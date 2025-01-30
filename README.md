@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdul Bangura
-- 👀 I’m interested in developing web and mobile applications
-- 🌱 I’m currently studying computer science at the University of Makeni (UniMak)
+- 👀 I’m interested in Machine Learning, Data Science and AI in General
+- 🌱 I’m a computer science from the University of Makeni (UniMak), Sierra Leone
 - 💞️ I’m looking forward to meeting new friends and learn more
 - 📫 You can contact me at 17 Old Lunsar Road Makeni City, Sierra Leone, at gmail abdulbangura023@gmail.com or +23288180366 on WhatSapp
 
